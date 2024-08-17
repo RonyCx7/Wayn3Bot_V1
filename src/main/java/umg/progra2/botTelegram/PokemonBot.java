@@ -19,7 +19,7 @@ public class PokemonBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "";
+        return "6351827444:AAF77BQw9wPvL3prcAqbT7rGFttDfOs3__Q";
     }
 
 
